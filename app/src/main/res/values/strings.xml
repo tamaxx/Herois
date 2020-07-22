@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Herois</string>
+    <string name="boas_vindas"> Seja Bem-vindo(a) </string>
+    <string name="mensagem"> Selecione um de nossos membros para conferir suas informações </string>
+    <string name="batman"> Batman </string>
+    <string name="lanterna_codinome"> Lanterna Verde </string>
+    <string name="saiba_mais"> <u> Saiba Mais </u> </string>
+    <string name="lanterna_info"> <b> Codinome: Lanterna Verde </b> \n
+        Nome: Hal Jordan \n
+        Código de Heroi: 28926 \n
+        Espécie: Humano \n
+        Habilidades: Manipulação da Realidade, Voo \n
+        Vulnerabilidades: Poder Amarelo \n \n
+        <b> Equipamentos: </b> \n
+        Anel de Poder verde</string>
+    <string name="batman_info"> <b> Codinome: Batman </b> \n
+        Nome: Bruce Wayne \n
+        Código de Heroi: 89645 \n
+        Espécie: Humano \n
+        Habilidades: Inteligência Extrema, Agilidade \n
+        Vulnerabilidades: Seus Pais \n \n
+        <b> Equipamentos: </b> \n
+        Batarangue, Batmóvel, Bat-Garra </string>
+    <string name="superman_info"> <b> Codinome: Superman </b> \n
+        Nome: Clark Joseph Kent \n
+        Código de Heroi: 68754 \n
+        Espécie: Kryptoniano \n
+        Habilidades: Superforça, Voo \n
+        Vulnerabilidades: Kryptonita \n \n
+        <b> Equipamentos: </b> \n
+        Traje </string>
+    <string name="maravilha_info"> <b> Codinome: Mulher Maravilha </b> \n
+        Nome: Diana Prince \n
+        Código de Heroi: 93199 \n
+        Espécie: Amazona \n
+        Habilidades: Sabedoria Divina, Regeneração \n
+        Vulnerabilidades: Veneno e outras substâncias \n \n
+        <b> Equipamentos: </b> \n
+        Laço de Héstia, Jato Invisível, Braceletes </string>
+</resources>
